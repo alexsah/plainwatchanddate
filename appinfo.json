@@ -1,0 +1,25 @@
+{
+    "versionLabel": "0.1",
+    "uuid": "1f3d88fa-992b-43ff-b9a1-6f8a8a8c95d7",
+    "appKeys": {},
+    "longName": "Plain Clock and Date",
+    "versionCode": 1,
+    "capabilities": [
+        ""
+    ],
+    "shortName": "Plain Clock and Date",
+    "companyName": "alexsah",
+    "watchapp": {
+        "watchface": true
+    },
+    "resources": {
+        "media": [
+            {
+                "menuIcon": true,
+                "type": "png",
+                "name": "IMAGE_MENU_IMAGE",
+                "file": "images/menu_image.png"
+            }
+        ]
+    }
+}
